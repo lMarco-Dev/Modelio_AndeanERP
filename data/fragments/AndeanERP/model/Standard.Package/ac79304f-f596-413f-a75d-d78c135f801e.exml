@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelo del Negocio" version="4">
+  <OBJECT>
+    <ID name="Modelo del Negocio" mc="Standard.Package" uid="ac79304f-f596-413f-a75d-d78c135f801e"/>
+    <PID name="AndeanERP" mc="Standard.Project" uid="902816e9-5ce0-47c9-9511-719eb72e7929"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Modelo del Negocio]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="MCU - Negocio" mc="Standard.Package" uid="fc8dc998-fa10-469f-a732-c999f5048153"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

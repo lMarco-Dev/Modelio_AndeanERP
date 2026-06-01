@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AndeanERP" version="4">
+  <OBJECT>
+    <ID name="AndeanERP" mc="Infrastructure.DiagramSet" uid="422a72f9-f5f2-4a28-a1f4-0c112a1bf100"/>
+    <PID name="AndeanERP" mc="Standard.Project" uid="902816e9-5ce0-47c9-9511-719eb72e7929"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[AndeanERP]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
