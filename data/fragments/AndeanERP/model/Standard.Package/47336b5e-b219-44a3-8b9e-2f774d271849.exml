@@ -19,6 +19,7 @@
         <COMPID name="AN - Asistente del Gerente" mc="Standard.Actor" uid="5509abab-820c-4854-9b3e-30ff4db88fcd"/>
         <COMPID name="AN - Contador" mc="Standard.Actor" uid="0a2d39f7-43aa-4a78-9306-83a7220ac7d7"/>
         <COMPID name="AN - Jefe de Planta" mc="Standard.Actor" uid="d66b37b6-9a12-493c-8c8d-206863afc714"/>
+        <COMPID name="AN - Contador 2" mc="Standard.Actor" uid="ac3c66b2-fbb8-4f9e-97c1-d6db7b7bd4f7"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

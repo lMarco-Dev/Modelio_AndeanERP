@@ -14,7 +14,10 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Use Case" mc="Standard.UseCase" uid="a1325a87-c410-40fc-b1b3-5463e3a8510f"/>
+        <COMPID name="Gestionar Presupuestos Proyectados" mc="Standard.UseCase" uid="26d8a22f-caf1-4058-abc7-4f0193e4957b"/>
+        <COMPID name="Gestionar Presupuestos Ajustados" mc="Standard.UseCase" uid="4fd5235c-b070-4563-9114-3ee2c74c04fd"/>
+        <COMPID name="Registrar Requerimiento Planificado" mc="Standard.UseCase" uid="fe5a794b-ba50-43f3-b492-12abe609479f"/>
+        <COMPID name="Registrar Requerimiento Extraordinario" mc="Standard.UseCase" uid="8e25b87a-b3c6-43cc-a4d6-73d98f734837"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

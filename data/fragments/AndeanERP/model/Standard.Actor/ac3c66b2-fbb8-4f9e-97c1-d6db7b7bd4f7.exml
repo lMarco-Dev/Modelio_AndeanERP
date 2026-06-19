@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AN - Contador 2" version="4">
+  <OBJECT>
+    <ID name="AN - Contador 2" mc="Standard.Actor" uid="ac3c66b2-fbb8-4f9e-97c1-d6db7b7bd4f7"/>
+    <PID name="Actores del Negocio" mc="Standard.Package" uid="47336b5e-b219-44a3-8b9e-2f774d271849"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[AN - Contador 2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
