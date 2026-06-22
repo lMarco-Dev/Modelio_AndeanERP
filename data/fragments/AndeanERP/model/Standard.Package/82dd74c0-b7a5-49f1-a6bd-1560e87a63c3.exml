@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CU - REQ EXTRAORDINARIOS" version="4">
+  <OBJECT>
+    <ID name="CU - REQ EXTRAORDINARIOS" mc="Standard.Package" uid="82dd74c0-b7a5-49f1-a6bd-1560e87a63c3"/>
+    <PID name="Casos de Uso del Negocio" mc="Standard.Package" uid="ae8f6103-1fa9-4cfa-b760-9e66917f7f6f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CU - REQ EXTRAORDINARIOS]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="UC-EXT-01: Registrar Requerimiento Extraordinario" mc="Standard.UseCase" uid="ae657501-06a3-4d59-88d6-52bda9601e47"/>
+        <COMPID name="UC-EXT-02: Clasificar Gasto Extraordinario por Cuenta Afecta" mc="Standard.UseCase" uid="a41b6aad-c212-4285-a46f-e6bc4fbdcfbd"/>
+        <COMPID name="UC-EXT-03: Registrar Justificación de Gasto Extraordinario" mc="Standard.UseCase" uid="b845a9ae-e2fa-4ac7-aa8d-a8d7a4be6740"/>
+        <COMPID name="UC-EXT-04: Registrar Proveedor de Gasto Extraordinario" mc="Standard.UseCase" uid="5da40459-e3d0-406f-966c-50407f52f790"/>
+        <COMPID name="UC-EXT-05: Calcular Acumulado de Gasto Extraordinario" mc="Standard.UseCase" uid="0ee0be17-b017-43d5-a140-ce1b47c9111f"/>
+        <COMPID name="UC-EXT-06: Registrar Estado de Pago (CONDICION) de Gasto Extraordinario" mc="Standard.UseCase" uid="6f6101a9-140c-4fd0-8c07-1e65183242d9"/>
+        <COMPID name="UC-EXT-07: Generar Resumen de Gastos Extraordinarios por Requerimiento" mc="Standard.UseCase" uid="4941047c-9c01-42c3-9144-9de4ad477578"/>
+        <COMPID name="UC-EXT-08: Clasificar Gastos Extraordinarios por Tipo" mc="Standard.UseCase" uid="2514fb5f-d359-4a82-b536-d79128b226f9"/>
+        <COMPID name="UC-EXT-09: Consolidar Gastos Extraordinarios por Cuenta Afecta" mc="Standard.UseCase" uid="bb158064-d8b1-418f-bca9-2d1820c45abe"/>
+        <COMPID name="UC-EXT-10: Generar Reporte de Gastos Extraordinarios por Período" mc="Standard.UseCase" uid="2e28383c-71fc-42e6-a4c5-941ef2200006"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="CU - REQ EXTRAORDINARIOS" mc="Standard.UseCaseDiagram" uid="5010e219-18fe-48b8-80a2-b6208ab6206f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MCUN" version="4">
+  <OBJECT>
+    <ID name="MCUN" mc="Standard.Package" uid="730a07ea-469c-48b2-a4ac-7afaf125976c"/>
+    <PID name="CONTABILIDAD" mc="Standard.Package" uid="512ab070-bb3d-48cc-845b-261901ec4b39"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[MCUN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Casos de Uso del Negocio" mc="Standard.Package" uid="ae8f6103-1fa9-4cfa-b760-9e66917f7f6f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

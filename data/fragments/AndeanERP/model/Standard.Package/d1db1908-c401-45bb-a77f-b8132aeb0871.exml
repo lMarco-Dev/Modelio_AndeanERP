@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Trabajadores del negocio" version="4">
+  <OBJECT>
+    <ID name="Trabajadores del negocio" mc="Standard.Package" uid="d1db1908-c401-45bb-a77f-b8132aeb0871"/>
+    <PID name="MAN" mc="Standard.Package" uid="2494d8d2-c90e-4e89-9ac9-62e668f09d6f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Trabajadores del negocio]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="TN - Contador 2" mc="Standard.Actor" uid="ac3c66b2-fbb8-4f9e-97c1-d6db7b7bd4f7"/>
+        <COMPID name="TN - Contador" mc="Standard.Actor" uid="0a2d39f7-43aa-4a78-9306-83a7220ac7d7"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

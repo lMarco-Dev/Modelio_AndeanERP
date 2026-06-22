@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Detalle CU-EXT-06" version="4">
+  <OBJECT>
+    <ID name="Detalle CU-EXT-06" mc="Infrastructure.Document" uid="82346593-efb2-4b88-b95e-da8bc2c72ac7"/>
+    <PID name="UC-EXT-06: Registrar Estado de Pago (CONDICION) de Gasto Extraordinario" mc="Standard.UseCase" uid="6f6101a9-140c-4fd0-8c07-1e65183242d9"/>
+    <ATTRIBUTES>
+      <ATT name="Abstract"></ATT>
+      <ATT name="MimeType"><![CDATA[application/vnd.openxmlformats-officedocument.wordprocessingml.document]]></ATT>
+      <ATT name="StorageInfo"><![CDATA[blob:]]></ATT>
+      <ATT name="Name"><![CDATA[Detalle CU-EXT-06]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Type">
+        <FOREIGNID name="specification" mc="Infrastructure.ResourceType" uid="06972e98-2177-11e1-a46e-002564c97630"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

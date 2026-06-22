@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Detalle CU-EXT-07" version="4">
+  <OBJECT>
+    <ID name="Detalle CU-EXT-07" mc="Infrastructure.Document" uid="8848146a-c107-495d-bd56-cd39004053ac"/>
+    <PID name="UC-EXT-07: Generar Resumen de Gastos Extraordinarios por Requerimiento" mc="Standard.UseCase" uid="4941047c-9c01-42c3-9144-9de4ad477578"/>
+    <ATTRIBUTES>
+      <ATT name="Abstract"></ATT>
+      <ATT name="MimeType"><![CDATA[application/vnd.openxmlformats-officedocument.wordprocessingml.document]]></ATT>
+      <ATT name="StorageInfo"><![CDATA[blob:]]></ATT>
+      <ATT name="Name"><![CDATA[Detalle CU-EXT-07]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Type">
+        <FOREIGNID name="specification" mc="Infrastructure.ResourceType" uid="06972e98-2177-11e1-a46e-002564c97630"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

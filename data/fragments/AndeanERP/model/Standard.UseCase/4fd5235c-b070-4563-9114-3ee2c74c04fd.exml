@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Gestionar Presupuestos Ajustados" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="UC-02 Gestionar Presupuestos Ajustados (PPTO AJUSTADO)" version="4">
   <OBJECT>
-    <ID name="Gestionar Presupuestos Ajustados" mc="Standard.UseCase" uid="4fd5235c-b070-4563-9114-3ee2c74c04fd"/>
+    <ID name="UC-02 Gestionar Presupuestos Ajustados (PPTO AJUSTADO)" mc="Standard.UseCase" uid="4fd5235c-b070-4563-9114-3ee2c74c04fd"/>
     <PID name="Casos de Uso del Negocio" mc="Standard.Package" uid="ae8f6103-1fa9-4cfa-b760-9e66917f7f6f"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
@@ -9,7 +9,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Gestionar Presupuestos Ajustados]]></ATT>
+      <ATT name="Name"><![CDATA[UC-02 Gestionar Presupuestos Ajustados (PPTO AJUSTADO)]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Registrar Requerimiento Extraordinario" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="UC-04 Registrar Requerimiento Extraordinario (REQ EXTRAORDINARIOS)" version="4">
   <OBJECT>
-    <ID name="Registrar Requerimiento Extraordinario" mc="Standard.UseCase" uid="8e25b87a-b3c6-43cc-a4d6-73d98f734837"/>
+    <ID name="UC-04 Registrar Requerimiento Extraordinario (REQ EXTRAORDINARIOS)" mc="Standard.UseCase" uid="8e25b87a-b3c6-43cc-a4d6-73d98f734837"/>
     <PID name="Casos de Uso del Negocio" mc="Standard.Package" uid="ae8f6103-1fa9-4cfa-b760-9e66917f7f6f"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
@@ -9,7 +9,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Registrar Requerimiento Extraordinario]]></ATT>
+      <ATT name="Name"><![CDATA[UC-04 Registrar Requerimiento Extraordinario (REQ EXTRAORDINARIOS)]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

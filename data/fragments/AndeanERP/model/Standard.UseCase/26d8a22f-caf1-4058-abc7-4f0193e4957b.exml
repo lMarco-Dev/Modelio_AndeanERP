@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Gestionar Presupuestos Proyectados" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="UC-01 Gestionar Presupuestos IDEAL Proyectados (PPTO GENERAL)" version="4">
   <OBJECT>
-    <ID name="Gestionar Presupuestos Proyectados" mc="Standard.UseCase" uid="26d8a22f-caf1-4058-abc7-4f0193e4957b"/>
+    <ID name="UC-01 Gestionar Presupuestos IDEAL Proyectados (PPTO GENERAL)" mc="Standard.UseCase" uid="26d8a22f-caf1-4058-abc7-4f0193e4957b"/>
     <PID name="Casos de Uso del Negocio" mc="Standard.Package" uid="ae8f6103-1fa9-4cfa-b760-9e66917f7f6f"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
@@ -9,7 +9,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Gestionar Presupuestos Proyectados]]></ATT>
+      <ATT name="Name"><![CDATA[UC-01 Gestionar Presupuestos IDEAL Proyectados (PPTO GENERAL)]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>

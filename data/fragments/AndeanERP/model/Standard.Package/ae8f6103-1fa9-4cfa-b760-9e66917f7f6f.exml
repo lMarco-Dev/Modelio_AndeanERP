@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Casos de Uso del Negocio" version="4">
   <OBJECT>
     <ID name="Casos de Uso del Negocio" mc="Standard.Package" uid="ae8f6103-1fa9-4cfa-b760-9e66917f7f6f"/>
-    <PID name="MCU - Negocio" mc="Standard.Package" uid="fc8dc998-fa10-469f-a732-c999f5048153"/>
+    <PID name="MCUN" mc="Standard.Package" uid="730a07ea-469c-48b2-a4ac-7afaf125976c"/>
     <ATTRIBUTES>
       <ATT name="IsInstantiable">false</ATT>
       <ATT name="IsAbstract">false</ATT>
@@ -14,10 +14,21 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Gestionar Presupuestos Proyectados" mc="Standard.UseCase" uid="26d8a22f-caf1-4058-abc7-4f0193e4957b"/>
-        <COMPID name="Gestionar Presupuestos Ajustados" mc="Standard.UseCase" uid="4fd5235c-b070-4563-9114-3ee2c74c04fd"/>
-        <COMPID name="Registrar Requerimiento Planificado" mc="Standard.UseCase" uid="fe5a794b-ba50-43f3-b492-12abe609479f"/>
-        <COMPID name="Registrar Requerimiento Extraordinario" mc="Standard.UseCase" uid="8e25b87a-b3c6-43cc-a4d6-73d98f734837"/>
+        <COMPID name="UC-01 Gestionar Presupuestos IDEAL Proyectados (PPTO GENERAL)" mc="Standard.UseCase" uid="26d8a22f-caf1-4058-abc7-4f0193e4957b"/>
+        <COMPID name="UC-02 Gestionar Presupuestos Ajustados (PPTO AJUSTADO)" mc="Standard.UseCase" uid="4fd5235c-b070-4563-9114-3ee2c74c04fd"/>
+        <COMPID name="UC-03 Registrar Requerimiento Planificado (REQ UNIFICADO)" mc="Standard.UseCase" uid="fe5a794b-ba50-43f3-b492-12abe609479f"/>
+        <COMPID name="UC-04 Registrar Requerimiento Extraordinario (REQ EXTRAORDINARIOS)" mc="Standard.UseCase" uid="8e25b87a-b3c6-43cc-a4d6-73d98f734837"/>
+        <COMPID name="UC-05 Verificar Datos Registrados (REQ UNIFICADO, " mc="Standard.UseCase" uid="86bb6521-37a8-456e-94fa-17e2562b9d9e"/>
+        <COMPID name="UC-06 Actualizar Libro Mayor" mc="Standard.UseCase" uid="8fb5373f-d694-433c-a513-c511eb5d341e"/>
+        <COMPID name="UC-07 Registrar Pago (REQ UNIFICADO, EXTRAORDINARIOS)" mc="Standard.UseCase" uid="4f57f6f5-3a3d-428c-b553-1287d2367c9a"/>
+        <COMPID name="UC-08 Calcular Liquidación por Producto (LIQUIDACIÓN ...)" mc="Standard.UseCase" uid="e44d0144-8569-4998-952d-8dff07f89aea"/>
+        <COMPID name="UC-09 Gestionar Cuentas por Pagar (CUENTAS X PGAR UNIFICADOS)" mc="Standard.UseCase" uid="ebf5720a-a018-41de-b4e5-e8935a91ed6b"/>
+        <COMPID name="UC-10 Gestionar Inventarios (INVENTARIOS)" mc="Standard.UseCase" uid="21a6b099-579f-4f59-8d50-f53fd75a3655"/>
+        <COMPID name="UC-11 Generar Reportes" mc="Standard.UseCase" uid="3b1e03fc-611e-45f7-b459-8cfe5f51726a"/>
+        <COMPID name="CU - REQ EXTRAORDINARIOS" mc="Standard.Package" uid="82dd74c0-b7a5-49f1-a6bd-1560e87a63c3"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Andean - Casos de Uso del Negocio" mc="Standard.UseCaseDiagram" uid="34a23fce-9932-49e1-83aa-1cd317a3aac6"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

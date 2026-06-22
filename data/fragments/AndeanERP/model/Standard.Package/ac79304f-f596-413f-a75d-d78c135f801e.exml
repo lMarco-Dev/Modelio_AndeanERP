@@ -15,6 +15,7 @@
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
         <COMPID name="MCU - Negocio" mc="Standard.Package" uid="fc8dc998-fa10-469f-a732-c999f5048153"/>
+        <COMPID name="CONTABILIDAD" mc="Standard.Package" uid="512ab070-bb3d-48cc-845b-261901ec4b39"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
